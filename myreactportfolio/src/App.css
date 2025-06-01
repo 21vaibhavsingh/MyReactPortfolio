@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+header {
+  background-color: #282c34;
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.8rem;
+  color: #555;
+}
+
